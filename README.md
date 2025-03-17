@@ -68,13 +68,10 @@ Both Alice and Bob guessed correctly! It's a tie!
 - If a player enters a non-numeric value, the program prompts them to enter a valid number.
 - Only numbers between 0 and 10 are accepted.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contributions
 Contributions are welcome! Feel free to submit a pull request with improvements or bug fixes.
 
 ## Contact
-For support or inquiries, contact [your-email@example.com](mailto:your-email@example.com).
+For support or inquiries, contact [your-email@example.com](mailto:moazmohamed.dev@gmail.com).
 
 
