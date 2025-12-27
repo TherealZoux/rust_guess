@@ -72,6 +72,6 @@ Both Alice and Bob guessed correctly! It's a tie!
 Contributions are welcome! Feel free to submit a pull request with improvements or bug fixes.
 
 ## Contact
-For support or inquiries, contact [your-email@example.com](mailto:moazmohamed.dev@gmail.com).
+For support or inquiries, contact [moazmohamed.dev@gmail.com](mailto:moazmohamed.dev@gmail.com).
 
 
